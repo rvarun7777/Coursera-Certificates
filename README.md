@@ -24,7 +24,7 @@
 22. [Machine Learning Foundations: A Case Study Approach](https://github.com/rvarun7777/Coursera-Certificates/blob/main/Machine_Learning_Foundations:_A_Case_Study_Approach_UE7SXYMT7ZZX.pdf)
 23. [Machine Learning](https://github.com/rvarun7777/Coursera-Certificates/blob/main/Machine_Learning_SW5SX9BAH4NZ.pdf)
 24. [Mathematics for Machine Learning: Linear Algebra](https://github.com/rvarun7777/Coursera-Certificates/blob/main/Mathematics_for_Machine_Learning:_Linear_Algebra_4SP4WUJ75SUJ.pdf)
-25. [Mathematics_for_Machine_Learning: PCA](Mathematics_for_Machine_Learning_PCA_LERM6R9XVQAL.pdf)
+25. [Mathematics for Machine Learning: PCA](Mathematics_for_Machine_Learning_PCA_LERM6R9XVQAL.pdf)
 26. [Motion Planning for Self-Driving Cars](https://github.com/rvarun7777/Coursera-Certificates/blob/main/Motion_Planning_for_Self-Driving_Cars_ZJEXQN5DZ6Z2.pdf)
 27. [Neural Networks and Deep Learning](https://github.com/rvarun7777/Coursera-Certificates/blob/main/Neural_Networks_and_Deep_Learning_Y2PKVVVWGUZZ.pdf)
 28. [Neural Networks for Machine Learning](https://github.com/rvarun7777/Coursera-Certificates/blob/main/Neural_Networks_for_Machine_Learning_T7TGXMNXL56T.pdf)
